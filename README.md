@@ -46,11 +46,11 @@
 
 ## 💳 Subscriptions
 
-| Plan | Accounts / period |
-|------|-------------------|
-| **Basic** | 1 000 accounts – 30 days (or until first limit reached) |
-| **Premium** | 10 000 accounts – 365 days (or until first limit reached) |
-| **Unlimited** | Unlimited accounts & operations – lifetime |
+| Plan | Limit / Duration |
+|------|------------------|
+| **30 days / 1 000 accounts** | First reached limit |
+| **365 days / 10 000 accounts** | First reached limit |
+| **Lifetime / Unlimited** | Unlimited conversions |
 
 ---
 
